@@ -6,7 +6,7 @@ VS Code extension that beautifies SQL using the [vkbeautify](https://www.npmjs.c
 
 Beatify your SQL!  Make sure the language is set to `SQL` and press `Alt+Shift+f` just like you normally would.
 
-![demo](images/demo.gif)
+![demo](https://github.com/cmrigney/vscode-sql-beautify/blob/master/images/demo.gif?raw=true)
 
 
 ## Release Notes
@@ -14,4 +14,8 @@ Beatify your SQL!  Make sure the language is set to `SQL` and press `Alt+Shift+f
 ### 0.0.1
 
 Initial release
+
+### 0.0.3
+
+Fix demo image
 
