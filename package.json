@@ -23,7 +23,7 @@
             {
                 "command": "extension.beautifySql",
                 "key": "alt+shift+f",
-                "when": "editorTextFocus && !editorReadonly"
+                "when": "editorTextFocus && !editorReadonly && editorLangId == 'sql'"
             }
         ]
     },
