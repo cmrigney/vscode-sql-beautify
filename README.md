@@ -19,3 +19,9 @@ Initial release
 
 Fix demo image
 
+### 0.0.4
+
+Fix conflict with predefined Alt+Shift+F shortcuts - Thanks to zessx
+
+
+
